@@ -2,6 +2,7 @@ const size = {
     verySmall: 5,
     small: 8,
     medium: 15,
+    mediumBig: 25,
     smallBig: 30,
     big: 40,
     veryBig: 80,
